@@ -3,7 +3,7 @@
 
 - The main point was to investigate the different impacts of achievements on the users of a quiz.
 
-There are three groups,  the user gets assigned to one of them:\
+There are three groups,  the user gets assigned to one of them:
 1. Control Group: no gamification at all 
 2. Normal Achievement Group: the user is able to get at most 53 achievements
 3. Hyper Achievements Group: the user is able to get at most 151 achievements
