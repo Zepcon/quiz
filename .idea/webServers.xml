@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="06748d88-65ec-4a57-92e8-94688b850085" name="Apachi" url="http://localhost/Quiz_Flavio">
+        <fileTransfer port="0" mountedRoot="C:\xampp\htdocs\Quiz_Flavio" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>

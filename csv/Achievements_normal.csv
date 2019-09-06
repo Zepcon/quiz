@@ -1,0 +1,53 @@
+﻿Aller Anfang ist… einfach?;Verschiedenes;Beantworte deine erste Frage;line;0
+Eingeschlafen?;Verschiedenes;Beantworte für 30 Sekunden keine Frage;check;check
+Schnellfeuer;Verschiedenes;Beantworte eine Frage in maximal 2 Sekunden richtig;check;check
+Sprinter;Verschiedenes;Beantworte 5 Fragen in 30 Sekunden;check;check
+Serie;Verschiedenes;Beantworte 3 Fragen am Stück richtig;rightanswersstreak;3
+Unstoppable;Verschiedenes;Beantworte 10 Fragen am Stück richtig;rightanswersstreak;10
+Hin und her;Verschiedenes;Ändere deine ausgewählte Antwort;special;special
+Feierabend!;Verschiedenes;Beende das Quiz;check;check
+Einfindungsphase;Fragen dauerhaft beantworten;20 Fragen beantworten;line;19
+Steigerungspotenzial;Fragen dauerhaft beantworten;60 Fragen beantworten;line;59
+Century;Fragen dauerhaft beantworten;100 Fragen beantworten;line;99
+Läuft noch;Fragen dauerhaft beantworten;140 Fragen beantworten;line;139
+OneHundredEighty;Fragen dauerhaft beantworten;180 Fragen beantworten;line;179
+Durchhaltevermögen;Fragen dauerhaft beantworten;220 Fragen beantworten;line;219
+Immer weiter;Fragen dauerhaft beantworten;260 Fragen beantworten;line;259
+Century 3;Fragen dauerhaft beantworten;300 Fragen beantworten;line;299
+Bis zur Unendlichkeit und noch viel weiter;Fragen dauerhaft beantworten;330 Fragen beantworten;line;329
+Allrounder;Kategorie-spezifisch;Beende die Kategorie: Allgemeinwissen;line;19
+Vielseitig einsetzbar;Kategorie-spezifisch;Beende die Kategorie: Allgemeinwissen 2;line;39
+Paparazzi;Kategorie-spezifisch;Beende die Kategorie: Prominente;line;59
+"""Man gebe mir den Kompass""";Kategorie-spezifisch;Beende die Kategorie: Geografie;line;79
+Tierisch;Kategorie-spezifisch;Beende die Kategorie: Tiere;line;99
+Unternehmer;Kategorie-spezifisch;Beende die Kategorie: Business;line;119
+Schnee von gestern;Kategorie-spezifisch;Beende die Kategorie: Geschichte;line;139
+Spielkind;Kategorie-spezifisch;Beende die Kategorie: Spiele & Unterhaltung;line;159
+Mum, I'm on TV!;Kategorie-spezifisch;Beende die Kategorie: Filme und Serien;line;179
+Lalalala;Kategorie-spezifisch;Beende die Kategorie: Musik;line;199
+Error: Achievement not found;Kategorie-spezifisch;Beende die Kategorie: Computer;line;219
+Zählt das schon als Sport?;Kategorie-spezifisch;Beende die Kategorie: Sport;line;239
+Rednerpult;Kategorie-spezifisch;Beende die Kategorie: Politik;line;259
+Diplom;Kategorie-spezifisch;Beende die Kategorie: Wissenschaft;line;279
+Ich habe Hunger;Kategorie-spezifisch;Beende die Kategorie: Essen;line;299
+Menschenkenntnis;Kategorie-spezifisch;Beende die Kategorie: Der menschliche Körper;line;319
+Was zum?;Kategorie-spezifisch;Beende die Kategorie: Random;line;329
+Schlaukopf;Richtig beantwortete Fragen;5 Fragen richtig beantworten;rightanswers;5
+Kenner;Richtig beantwortete Fragen;15 Fragen richtig beantworten;rightanswers;15
+1 + mit *;Richtig beantwortete Fragen;35 Fragen richtig beantworten;rightanswers;35
+Gewusst wie;Richtig beantwortete Fragen;55 Fragen richtig beantworten;rightanswers;55
+75 mal richtig!;Richtig beantwortete Fragen;75 Fragen richtig beantworten;rightanswers;75
+Einstein;Richtig beantwortete Fragen;95 Fragen richtig beantworten;rightanswers;95
+115 mal richtig!;Richtig beantwortete Fragen;115 Fragen richtig beantworten;rightanswers;115
+Wissen macht Ah!;Richtig beantwortete Fragen;135 Fragen richtig beantworten;rightanswers;135
+Kenner 2;Richtig beantwortete Fragen;155 Fragen richtig beantworten;rightanswers;155
+Wissen ist Macht;Richtig beantwortete Fragen;175 Fragen richtig beantworten;rightanswers;175
+Siegessicher;Richtig beantwortete Fragen;195 Fragen richtig beantworten;rightanswers;195
+Straße des Erfolges;Richtig beantwortete Fragen;215 Fragen richtig beantworten;rightanswers;215
+Quiz-Master;Richtig beantwortete Fragen;235 Fragen richtig beantworten;rightanswers;235
+Alleskönner;Richtig beantwortete Fragen;255 Fragen richtig beantworten;rightanswers;255
+Weltenbummler;Bezogen auf einzelne Fragen;Marrakesch Frage richtig beantworten;lineright;1
+International informiert;Bezogen auf einzelne Fragen;Gouverneur Frage richtig beantworten;lineright;32
+Nicht reinlegen lassen;Bezogen auf einzelne Fragen;Jana-Frage richtig beantworten;lineright;320
+We love to entertain you;Bezogen auf einzelne Fragen;Joko-Frage richtig beantworten;lineright;53
+Unsichtbar;Bezogen auf einzelne Fragen;Farb-Frage richtig beantworten;lineright;91

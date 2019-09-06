@@ -1,0 +1,151 @@
+﻿Aller Anfang ist… einfach?;Verschiedenes;Beantworte deine erste Frage;line;0
+Eingeschlafen?;Verschiedenes;Beantworte 30 Sekunden lang keine Frage;check;check
+Schnellfeuer;Verschiedenes;Beantworte eine Frage in maximal 2 Sekunden richtig;check;check
+Sprinter;Verschiedenes;Beantworte 5 Fragen in 30 Sekunden;check;check
+Serie;Verschiedenes;Beantworte 3 Fragen am Stück richtig;rightanswersstreak;3
+Unstoppable;Verschiedenes;Beantworte 10 Fragen am Stück richtig;rightanswersstreak;10
+Hin und her;Verschiedenes;Ändere deine ausgewählte Antwort;check;check
+Feierabend!;Verschiedenes;Beende das Quiz;check;check
+Einfindungsphase;Fragen dauerhaft beantworten;20 Fragen beantworten;line;19
+Steigerungspotenzial;Fragen dauerhaft beantworten;60 Fragen beantworten;line;59
+Century;Fragen dauerhaft beantworten;100 Fragen beantworten;line;99
+Läuft noch;Fragen dauerhaft beantworten;140 Fragen beantworten;line;139
+OneHundredEighty;Fragen dauerhaft beantworten;180 Fragen beantworten;line;179
+Durchhaltevermögen;Fragen dauerhaft beantworten;220 Fragen beantworten;line;219
+Immer weiter;Fragen dauerhaft beantworten;260 Fragen beantworten;line;259
+Century 3;Fragen dauerhaft beantworten;300 Fragen beantworten;line;299
+Bis zur Unendlichkeit und noch viel weiter;Fragen dauerhaft beantworten;330 Fragen beantworten;line;329
+Allrounder;Kategorie-spezifisch;Beende die Kategorie: Allgemeinwissen;line;19
+Vielseitig einsetzbar;Kategorie-spezifisch;Beende die Kategorie: Allgemeinwissen 2;line;39
+Paparazzi;Kategorie-spezifisch;Beende die Kategorie: Prominente;line;59
+"""Man gebe mir den Kompass""";Kategorie-spezifisch;Beende die Kategorie: Geografie;line;79
+Tierisch;Kategorie-spezifisch;Beende die Kategorie: Tiere;line;99
+Unternehmer;Kategorie-spezifisch;Beende die Kategorie: Business;line;119
+Schnee von gestern;Kategorie-spezifisch;Beende die Kategorie: Geschichte;line;139
+Spielkind;Kategorie-spezifisch;Beende die Kategorie: Spiele & Unterhaltung;line;159
+Mum, I'm on TV!;Kategorie-spezifisch;Beende die Kategorie: Filme und Serien;line;179
+Lalalala;Kategorie-spezifisch;Beende die Kategorie: Musik;line;199
+Error: Achievement not found;Kategorie-spezifisch;Beende die Kategorie: Computer;line;219
+Zählt das schon als Sport?;Kategorie-spezifisch;Beende die Kategorie: Sport;line;239
+Rednerpult;Kategorie-spezifisch;Beende die Kategorie: Politik;line;259
+Diplom;Kategorie-spezifisch;Beende die Kategorie: Wissenschaft;line;279
+Ich habe Hunger;Kategorie-spezifisch;Beende die Kategorie: Essen;line;299
+Menschenkenntnis;Kategorie-spezifisch;Beende die Kategorie: Der menschliche Körper;line;319
+Was zum?;Kategorie-spezifisch;Beende die Kategorie: Random;line;329
+Schlaukopf;Richtig beantwortete Fragen;5 Fragen richtig beantworten;rightanswers;5
+Kenner;Richtig beantwortete Fragen;15 Fragen richtig beantworten;rightanswers;15
+1 + mit *;Richtig beantwortete Fragen;35 Fragen richtig beantworten;rightanswers;35
+Gewusst wie;Richtig beantwortete Fragen;55 Fragen richtig beantworten;rightanswers;55
+75 mal richtig!;Richtig beantwortete Fragen;75 Fragen richtig beantworten;rightanswers;75
+Einstein;Richtig beantwortete Fragen;95 Fragen richtig beantworten;rightanswers;95
+115 mal richtig!;Richtig beantwortete Fragen;115 Fragen richtig beantworten;rightanswers;115
+Wissen macht Ah!;Richtig beantwortete Fragen;135 Fragen richtig beantworten;rightanswers;135
+Kenner 2;Richtig beantwortete Fragen;155 Fragen richtig beantworten;rightanswers;155
+Wissen ist Macht;Richtig beantwortete Fragen;175 Fragen richtig beantworten;rightanswers;175
+Siegessicher;Richtig beantwortete Fragen;195 Fragen richtig beantworten;rightanswers;195
+Straße des Erfolges;Richtig beantwortete Fragen;215 Fragen richtig beantworten;rightanswers;215
+Quiz-Master;Richtig beantwortete Fragen;235 Fragen richtig beantworten;rightanswers;235
+Alleskönner;Richtig beantwortete Fragen;255 Fragen richtig beantworten;rightanswers;255
+Weltenbummler;Bezogen auf einzelne Fragen;Marrakesch Frage richtig beantworten;lineright;1
+International informiert;Bezogen auf einzelne Fragen;Gouverneur Frage richtig beantworten;lineright;32
+Nicht reinlegen lassen;Bezogen auf einzelne Fragen;Jana-Frage richtig beantworten;lineright;320
+We love to entertain you;Bezogen auf einzelne Fragen;Joko-Frage richtig beantworten;lineright;53
+Unsichtbar;Bezogen auf einzelne Fragen;Farb-Frage richtig beantworten;lineright;91
+Aller Anfang ist… schwer!;Verschiedenes;Beantworte 10 Fragen falsch;wronganswers;10
+Kopf hoch;Verschiedenes;Beantworte 20 Fragen falsch;wronganswers;20
+Failure;Verschiedenes;Beantworte 30 Fragen falsch;wronganswers;30
+Aussichtslos?;Verschiedenes;Beantworte 50 Fragen falsch;wronganswers;50
+Vielleicht beim nächsten Versuch;Verschiedenes;Beantworte 100 Fragen falsch;wronganswers;100
+Stillgestanden!;Verschiedenes;Beantworte für 5 Sekunden keine Frage;check;check
+Toilettenpause;Verschiedenes;Mache für 10 Minuten nichts;check;check
+Luftschuss;Verschiedenes;Beantworte eine Frage in maximal 2 Sekunden;check;check
+Marathonläufer;Verschiedenes;Beantworte 10 Fragen in höchstens 60 Sekunden;check;check
+Lichtgeschwindigkeit;Verschiedenes;Beantworte 10 Fragen in 5 Sekunden;check;check
+Ich geb' einen aus!;Verschiedenes;Beantworte deine 5. Schnapszahl;line;55
+Dreistellig!;Verschiedenes;Erreiche Frage 100;line;100
+Top-Scorer;Verschiedenes;Beantworte 5 Fragen am Stück richtig;rightanswersstreak;5
+Hin und her und hin;Verschiedenes;Ändere deine ausgewählte Antwort 2 mal;check;check
+Aus! Aus! Das Spiel ist aus!;Verschiedenes;Bestätige, dass du das Quiz beenden willst;check;check
+Erste Fortschritte;Fragen dauerhaft beantworten;40 Fragen beantworten;line;39
+Fragen über Fragen;Fragen dauerhaft beantworten;80 Fragen beantworten;line;79
+120;Fragen dauerhaft beantworten;120 Fragen beantworten;line;119
+Fragen über Fragen 2;Fragen dauerhaft beantworten;160 Fragen beantworten;line;159
+Century 2;Fragen dauerhaft beantworten;200 Fragen beantworten;line;199
+Gibt es ein Ende?;Fragen dauerhaft beantworten;240 Fragen beantworten;line;239
+Wie viele denn noch?;Fragen dauerhaft beantworten;280 Fragen beantworten;line;279
+Suchtfaktor;Fragen dauerhaft beantworten;320 Fragen beantworten;line;319
+Ich weiß das!;Richtig beantwortete Fragen;10 Fragen richtig beantworten;rightanswers;10
+Wieder richtig;Richtig beantwortete Fragen;25 Fragen richtig beantworten;rightanswers;25
+Und schon wieder richtig;Richtig beantwortete Fragen;45  Fragen richtig beantworten;rightanswers;45
+Smart;Richtig beantwortete Fragen;65 Fragen richtig beantworten;rightanswers;65
+Richtig Richtig Richtig;Richtig beantwortete Fragen;85 Fragen richtig beantworten;rightanswers;85
+Schlaukopf 2;Richtig beantwortete Fragen;105 Fragen richtig beantworten;rightanswers;105
+"""Er weiß zu viel""";Richtig beantwortete Fragen;125 Fragen richtig beantworten;rightanswers;125
+Gewissenhaft;Richtig beantwortete Fragen;145 Fragen richtig beantworten;rightanswers;145
+Menschliches Lexikon;Richtig beantwortete Fragen;165 Fragen richtig beantworten;rightanswers;165
+Die Weisheit mit Löffeln gegessen;Richtig beantwortete Fragen;185 Fragen richtig beantworten;rightanswers;185
+Nichts ist unmöglich;Richtig beantwortete Fragen;205 Fragen richtig beantworten;rightanswers;205
+Auf dem richtigen Pfad;Richtig beantwortete Fragen;225 Fragen richtig beantworten;rightanswers;225
+Wissensdurst;Richtig beantwortete Fragen;245 Fragen richtig beantworten;rightanswers;245
+Das Unmögliche möglich;Richtig beantwortete Fragen;330 Fragen richtig beantworten;rightanswers;330
+Chemiker;Bezogen auf einzelne Fragen;Blei Frage richtig beantworten;lineright;11
+Mr Olympia;Bezogen auf einzelne Fragen;Schwarzenegger Frage richtig beantworten;lineright;32
+Ohrwurm;Bezogen auf einzelne Fragen;Bailando-Frage richtig beantworten;lineright;49
+"""Grunz""";Bezogen auf einzelne Fragen;Schwein-Frage richtig beantworten;lineright;86
+Schmeckt salzig;Bezogen auf einzelne Fragen;Stadt-Frage richtig beantworten;lineright;228
+Duplikat;Bezogen auf einzelne Fragen;Flaggen-Frage richtig beantworten;lineright;71
+An Apple a day;Bezogen auf einzelne Fragen;Apple-Frage richtig beantworten;lineright;100
+Erfinderland;Bezogen auf einzelne Fragen;Patent-Frage richtig beantworten;lineright;112
+Endlich unabhängig;Bezogen auf einzelne Fragen;Island-Frage richtig beantworten;lineright;132
+Explosiv;Bezogen auf einzelne Fragen;Schießpulver-Frage richtig beantworten;lineright;126
+Klassiker;Bezogen auf einzelne Fragen;Pong-Frage richtig beantworten;lineright;142
+Lange ist es her;Bezogen auf einzelne Fragen;Playstation-Frage richtig beantworten;lineright;152
+I'll be back;Bezogen auf einzelne Fragen;Terminator-Frage richtig beantworten;lineright;163
+Banana?;Bezogen auf einzelne Fragen;Gru-Frage richtig beantworten;lineright;165
+Moonwalk;Bezogen auf einzelne Fragen;MJ-Frage richtig beantworten;lineright;183
+Dirigent;Bezogen auf einzelne Fragen;Notensystem-Frage richtig beantworten;lineright;188
+Hacker;Bezogen auf einzelne Fragen;Binär-Frage richtig beantworten;lineright;204
+Alles geordnet;Bezogen auf einzelne Fragen;Sortiert-Frage richtig beantworten;lineright;211
+Goldmedaille geholt;Bezogen auf einzelne Fragen;Ring-Frage zu der Farbe richtig beantworten;lineright;222
+54,74,90,2014;Bezogen auf einzelne Fragen;WM 2006 - Frage richtig beantworten;lineright;230
+Du kommst hier nicht rein;Bezogen auf einzelne Fragen;EU-Gründungsfrage richtig beantworten;lineright;251
+Politisch engagiert;Bezogen auf einzelne Fragen;Landesregierungen-Frage richtig beantworten;lineright;252
+Mach Sitz;Bezogen auf einzelne Fragen;Pawlow-Frage richtig beantworten;lineright;265
+Der Name ist Programm;Bezogen auf einzelne Fragen;Wissen ist Macht-Frage richtig beantworten;lineright;270
+Ohne Zwiebeln, bitte;Bezogen auf einzelne Fragen;Döner-Frage richtig beantworten;lineright;285
+Nicht zu hart und nicht zu weich;Bezogen auf einzelne Fragen;Nudel-Frage richtig beantworten;lineright;286
+Einmal waschen bitte;Bezogen auf einzelne Fragen;Schmutz-Frage richtig beantworten;lineright;301
+Balanceakt;Bezogen auf einzelne Fragen;Gleichgewicht-Frage richtig beantworten;lineright;307
+Marrokkaner;Einzelne Fragen beantwortet;Marrakesch Frage beantworten;line;1
+Bleifrei;Einzelne Fragen beantwortet;Blei Frage beantworten;line;11
+El Presidente;Einzelne Fragen beantwortet;Vize US-Präsident Frage beantworten;line;26
+Arnold;Einzelne Fragen beantwortet;Schwarzenegger Frage beantworten;line;32
+Schon klar;Einzelne Fragen beantwortet;Jana-Frage beantworten;line;320
+Sing meinen Song;Einzelne Fragen beantwortet;Bailando-Frage beantworten;line;49
+Joko & Klaas;Einzelne Fragen beantwortet;Joko-Frage beantworten;line;53
+Schwein gehabt;Einzelne Fragen beantwortet;Schwein-Frage beantworten;line;86
+Kunterbunt;Einzelne Fragen beantwortet;Farb-Frage beantworten;line;91
+Salty;Einzelne Fragen beantwortet;Stadt-Frage beantworten;line;228
+Flaggen-Bruderschaft;Einzelne Fragen beantwortet;Flaggen-Frage beantworten;line;71
+Apple I;Einzelne Fragen beantwortet;Apple-Frage beantworten;line;100
+Quiz-Patent;Einzelne Fragen beantwortet;Patent-Frage beantworten;line;112
+Selbstständigkeit;Einzelne Fragen beantwortet;Island-Frage beantworten;line;132
+Wie aus der Pistole geschossen;Einzelne Fragen beantwortet;Schießpulver-Frage beantworten;line;126
+Das Ping zum Pong;Einzelne Fragen beantwortet;Pong-Frage beantworten;line;142
+Zocker;Einzelne Fragen beantwortet;Playstation-Frage beantworten;line;152
+Tag der Abrechnung;Einzelne Fragen beantwortet;Terminator-Frage beantworten;line;163
+Die Minions;Einzelne Fragen beantwortet;Gru-Frage beantworten;line;165
+Thriller;Einzelne Fragen beantwortet;MJ-Frage beantworten;line;183
+Musikalische Karriere;Einzelne Fragen beantwortet;Notensystem-Frage beantworten;line;188
+Computer sagt ja;Einzelne Fragen beantwortet;Binär-Frage beantworten;line;204
+Ordnung ist das halbe Leben;Einzelne Fragen beantwortet;Sortiert-Frage beantworten;line;211
+Ringe Werfen;Einzelne Fragen beantwortet;Ring-Frage zu der Farbe beantworten;line;222
+Champion;Einzelne Fragen beantwortet;WM 2006 - Frage beantworten;line;230
+Verbindung;Einzelne Fragen beantwortet;EU-Gründungsfrage beantworten;line;251
+Qual der Wahl;Einzelne Fragen beantwortet;Landesregierungen-Frage beantworten;line;252
+Eine Frage des Trainings;Einzelne Fragen beantwortet;Pawlow-Frage beantworten;line;265
+Wer weiß das schon;Einzelne Fragen beantwortet;Wissen ist macht-Frage beantworten;line;270
+Mit scharfer Soße;Einzelne Fragen beantwortet;Döner-Frage beantworten;line;285
+Mit Tomatensoße;Einzelne Fragen beantwortet;Nudel-Frage beantworten;line;286
+Säuberungskommando;Einzelne Fragen beantwortet;Schmutz-Frage beantworten;line;301
+Gehör im Gleichgewicht;Einzelne Fragen beantwortet;Gleichgewicht-Frage beantworten;line;307
