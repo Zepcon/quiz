@@ -1,5 +1,8 @@
 <?php
 
+/* This site is basically just to change the group number and the the number of the question to start with.
+	It is like a little cheating site for debugging. Should be called if you are within the filer person.php */
+
 if (isset($_POST["Gruppe"])) {
     session_start();
     $_SESSION['group'] = $_POST['Gruppe'];
