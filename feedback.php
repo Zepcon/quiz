@@ -67,7 +67,7 @@ if ($input_set) {
     $_SESSION['send_time'] = getdate()[0];
 
     //Write in Database, (hopefully) injection safe
-    $sql = $con->prepare("INSERT INTO `feedback` (`session_id`, `comment`, `likert1`, `likert2`, `likert3`, `likert4`, `total_time_seconds`, `send_time`) VALUES (?,?,?,?,?,?,?,?)");
+    $sql = $con->prepare("INSERT INTO `feedback` (Session_ID, Kommentar, likert1, likert2, likert3, likert4, Dauer_Interaktion_Website, Zeitpunkt_Feedback_gesendet) VALUES (?,?,?,?,?,?,?,?)");
     $sql->bind_param('ssiiiiii', $_SESSION['session_id'], $_SESSION['comment'], $_SESSION['Frage1'], $_SESSION['Frage2'], $_SESSION['Frage3'], $_SESSION['Frage4'], $_SESSION['total_time_seconds'], $_SESSION['send_time']);
     $sql->execute();
     $sql->close();

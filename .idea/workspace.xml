@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f22a187-ebed-4b6a-95f1-57472ef19cb9" name="Default Changelist" comment="" />
+    <list default="true" id="0996febd-897c-452e-989f-e217e4723c9f" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,67 +24,47 @@
     <option name="HIDDEN_KINDS">
       <set />
     </option>
-    <expand>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="Quiz@localhost" type="feb32156:DbDataSourceImpl" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="Quiz@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="Quiz@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="quiz_flavio: schema" type="ebfa3cd1:MariaImplModel$Schema" />
-      </path>
-    </expand>
+    <expand />
     <select />
-  </component>
-  <component name="DefaultGradleProjectSettings">
-    <option name="isMigrated" value="true" />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="Gamification_Quiz" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
       </list>
     </option>
   </component>
-  <component name="PhpDebugGeneral" xdebug_show_addresses="true" hide_empty_superglobals="false" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/quiz" />
+  </component>
   <component name="PhpServers">
     <servers>
-      <server host="127.0.0.1" id="84105f70-54ef-43a7-8f16-c2f2fc4336b7" name="Local" />
+      <server host="localhost" id="a1ff15c9-1599-4241-854f-872e28056660" name="Quiz_Server" />
     </servers>
   </component>
-  <component name="PhpWebServerValidation" deployment_server_id="06748d88-65ec-4a57-92e8-94688b850085" path_to_validation_script="C:\Users\Flavio\Documents\CAU Kiel\Module\Bachelor Arbeit\Quiz_Source" selected_validation_type="REMOTE" web_path_to_validation_script="http://127.0.0.1:80" />
-  <component name="ProjectId" id="1OcAJGqB5mGcZCtte2BjXkovqi4" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="CLI_ini">
+    <include_path>
+      <path value="C:/xampp/htdocs/Quiz_Flavio" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1QTtDMHLnZOuFeyyUPSaIfPH9fj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="C:/xampp/php" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="last_opened_file_path" value="C:/xampp/php/php.exe" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Flavio\Documents\CAU Kiel\Module\Bachelor Arbeit\Quiz_Source\img" />
       <recent name="C:\Users\Flavio\Documents\CAU Kiel\Module\Bachelor Arbeit\Quiz_Source" />
-      <recent name="C:\Users\Flavio\Documents\CAU Kiel\Module\Bachelor Arbeit\Quiz_Source\outsourced_js" />
-      <recent name="C:\Users\Flavio\Documents\CAU Kiel\Module\Bachelor Arbeit\Quiz_Source\csv" />
-      <recent name="C:\Users\Flavio\Documents\CAU Kiel\Module\Bachelor Arbeit\Quiz_Source\HTML" />
+      <recent name="C:\Users\Flavio\Documents\CAU Kiel\Module\Bachelor Arbeit\Quiz_Source\quiz" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -99,153 +79,58 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="PHP Web Page.Quiz_Local_Configuration">
-    <configuration name="feedback" type="JavascriptDebugType" uri="http://localhost/Quiz_Flavio/feedback.php">
+  <component name="RunManager" selected="PHP Web Page.Quiz">
+    <configuration name="index.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/Quiz_Source/quiz/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="Example" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" browser="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" server_name="Local" start_url="/Quiz_Flavio/example.php">
-      <method v="2">
-        <option name="FtpUpload" enabled="true">
-          <server_id>06748d88-65ec-4a57-92e8-94688b850085</server_id>
-          <server_name>Apachi</server_name>
-          <group_name />
-          <path>C:\Users\Flavio\Documents\CAU Kiel\Module\Bachelor Arbeit\Quiz_Source</path>
-        </option>
-      </method>
-    </configuration>
-    <configuration name="Quiz_Local_Configuration" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" browser="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" server_name="Local" start_url="/Quiz_Flavio/selecter.php">
-      <method v="2">
-        <option name="FtpUpload" enabled="true">
-          <server_id>06748d88-65ec-4a57-92e8-94688b850085</server_id>
-          <server_name>Apachi</server_name>
-          <group_name />
-          <path>C:\Users\Flavio\Documents\CAU Kiel\Module\Bachelor Arbeit\Quiz_Source</path>
-        </option>
-      </method>
-    </configuration>
-    <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="Local">
-      <method v="2">
-        <option name="FtpUpload" enabled="true">
-          <server_id>06748d88-65ec-4a57-92e8-94688b850085</server_id>
-          <server_name>Apachi</server_name>
-          <group_name />
-          <path>C:\Users\Flavio\Documents\CAU Kiel\Module\Bachelor Arbeit\Quiz_Source</path>
-        </option>
-      </method>
+    <configuration name="Quiz" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="Quiz_Server" start_url="/password.php">
+      <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="JavaScript Debug.feedback" />
-      <item itemvalue="PHP Web Page.Quiz_Local_Configuration" />
-      <item itemvalue="PHP Web Page.Example" />
+      <item itemvalue="JavaScript Debug.index.html" />
+      <item itemvalue="PHP Web Page.Quiz" />
     </list>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="allServicesViewState">
-      <serviceView>
-        <option name="contentProportion" value="0.10349651" />
-        <treeState>
-          <expand>
-            <path>
-              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@d73bfbd7" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-            </path>
-            <path>
-              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@d73bfbd7" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              <item name="com.intellij.execution.services.ServiceModel$ServiceNode@4e8060e9" type="9fbbdea:ServiceModel$ServiceNode" />
-            </path>
-          </expand>
-          <select />
-        </treeState>
-      </serviceView>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8f22a187-ebed-4b6a-95f1-57472ef19cb9" name="Default Changelist" comment="" />
-      <created>1563871272399</created>
+      <changelist id="0996febd-897c-452e-989f-e217e4723c9f" name="Default Changelist" comment="" />
+      <created>1567806292689</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1563871272399</updated>
-      <workItem from="1563871276399" duration="3148000" />
-      <workItem from="1563952552333" duration="32000" />
-      <workItem from="1563953000334" duration="38000" />
-      <workItem from="1563953173464" duration="7387000" />
-      <workItem from="1563966562529" duration="15224000" />
-      <workItem from="1564039665430" duration="2068000" />
-      <workItem from="1564087562444" duration="1285000" />
-      <workItem from="1564126003109" duration="13481000" />
-      <workItem from="1564264676327" duration="39000" />
-      <workItem from="1564265031508" duration="381000" />
-      <workItem from="1564266445890" duration="35000" />
-      <workItem from="1564339121588" duration="77000" />
-      <workItem from="1564339340258" duration="34000" />
-      <workItem from="1564341910036" duration="546000" />
-      <workItem from="1564342492600" duration="18000" />
-      <workItem from="1564390470114" duration="15902000" />
-      <workItem from="1564471013986" duration="23203000" />
-      <workItem from="1564557459619" duration="23058000" />
-      <workItem from="1564644771632" duration="18643000" />
-      <workItem from="1564730182270" duration="2491000" />
-      <workItem from="1564732769760" duration="11896000" />
-      <workItem from="1564860454001" duration="9000" />
-      <workItem from="1564860546669" duration="5026000" />
-      <workItem from="1564908156215" duration="5527000" />
-      <workItem from="1564989600433" duration="4111000" />
-      <workItem from="1564993818457" duration="19682000" />
-      <workItem from="1565032602500" duration="4267000" />
-      <workItem from="1565075849741" duration="28323000" />
-      <workItem from="1565162500158" duration="23242000" />
-      <workItem from="1565248411196" duration="25212000" />
-      <workItem from="1565300327943" duration="109000" />
-      <workItem from="1565335339787" duration="2373000" />
-      <workItem from="1565338040345" duration="13986000" />
-      <workItem from="1565525376293" duration="9632000" />
-      <workItem from="1565595275917" duration="27806000" />
-      <workItem from="1565642616551" duration="1119000" />
-      <workItem from="1565681001737" duration="19661000" />
-      <workItem from="1565789132191" duration="27000" />
-      <workItem from="1565863357614" duration="8358000" />
-      <workItem from="1565940302898" duration="14213000" />
-      <workItem from="1565966672008" duration="5747000" />
-      <workItem from="1566030189307" duration="23791000" />
-      <workItem from="1566129260368" duration="6539000" />
-      <workItem from="1566136668428" duration="6357000" />
-      <workItem from="1566199311068" duration="23507000" />
-      <workItem from="1566251339588" duration="71000" />
-      <workItem from="1566286034251" duration="12845000" />
-      <workItem from="1566372166197" duration="7515000" />
-      <workItem from="1566391342410" duration="459000" />
-      <workItem from="1566392548972" duration="417000" />
-      <workItem from="1566393330194" duration="4415000" />
-      <workItem from="1566455351682" duration="874000" />
-      <workItem from="1566504806583" duration="2558000" />
-      <workItem from="1566544759472" duration="7137000" />
-      <workItem from="1566758817070" duration="79000" />
-      <workItem from="1566758990312" duration="17000" />
-      <workItem from="1566805416297" duration="723000" />
-      <workItem from="1566821561668" duration="4584000" />
-      <workItem from="1566845570840" duration="436000" />
-      <workItem from="1566894355922" duration="4807000" />
-      <workItem from="1566916830188" duration="2550000" />
-      <workItem from="1567005378220" duration="2471000" />
-      <workItem from="1567011592188" duration="5476000" />
-      <workItem from="1567065359289" duration="3860000" />
-      <workItem from="1567072833733" duration="9317000" />
-      <workItem from="1567262009534" duration="2016000" />
-      <workItem from="1567417280923" duration="235000" />
-      <workItem from="1567496768415" duration="28000" />
-      <workItem from="1567497612554" duration="262000" />
-      <workItem from="1567498204049" duration="558000" />
-      <workItem from="1567507501978" duration="1565000" />
-      <workItem from="1567532161982" duration="759000" />
+      <updated>1567806292689</updated>
+      <workItem from="1567806295721" duration="593000" />
+      <workItem from="1567878742074" duration="2248000" />
+      <workItem from="1567935788354" duration="2046000" />
+      <workItem from="1567940271899" duration="2745000" />
+      <workItem from="1567943676423" duration="319000" />
+      <workItem from="1567944074045" duration="668000" />
+      <workItem from="1567945173096" duration="1516000" />
+      <workItem from="1568894285226" duration="920000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/quiz" />
+    </ignored-roots>
   </component>
 </project>

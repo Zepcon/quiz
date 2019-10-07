@@ -221,7 +221,7 @@ class quiz_achievement_hyper extends quiz_achievement_normal implements iAchieve
         $_SESSION['$duration_seconds'] = $this->endTime - $this->startTime;
 
         $con = createDatabaseconnection();
-        $sql = "UPDATE statistics SET `group_number` = '{$_SESSION['group']}', `questions_answered` = '{$this->line}', `right_answered` = '{$this->getAnswersRight()}', `longest_right_streak` ='{$this->longestrightstreak}', `wrong_answered` = '{$this->getAnswersWrong()}', `duration_seconds` = '{$_SESSION['$duration_seconds']}',`collected_achievements` = '{$this->achievementCounter}', `longest_question_seconds` = '{$this->longestquestion_seconds}', `shortest_question_seconds` = '{$this->shortestquestion_seconds}', `last_achievement` = '{$this->last_achievement}', `finally_finished` = '1' WHERE `session_id` = '{$_SESSION['session_id']}' AND finally_finished != 1";
+        $sql = "UPDATE statistics SET `Gruppennummer` = '{$_SESSION['group']}', `Fragen_beantwortet` = '{$this->line}', `Richtige_Antworten` = '{$this->getAnswersRight()}', `Laengste_richtig_Serie` ='{$this->longestrightstreak}', `Falsche_Antworten` = '{$this->getAnswersWrong()}', `Spieldauer_Sekunden` = '{$_SESSION['$duration_seconds']}',`Gesammelte_Achievements` = '{$this->achievementCounter}', `Laengste_Antwort_Sekunden` = '{$this->longestquestion_seconds}', `Kuerzeste_Antwort_Sekunden` = '{$this->shortestquestion_seconds}', `Letztes_Achievement` = '{$this->last_achievement}', `Quiz_beendet` = '1', `Zeitpunkt_Quiz_beendet` = '{$this->endTime}' WHERE Session_ID = '{$_SESSION['session_id']}' AND Quiz_beendet != 1";
         mysqli_query($con, $sql);
         header('Location: feedback.php');
         mysqli_close($con);

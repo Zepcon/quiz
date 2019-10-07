@@ -2,7 +2,7 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="06748d88-65ec-4a57-92e8-94688b850085" name="Apachi" url="http://localhost/Quiz_Flavio">
+      <webServer id="4feed878-2f0e-42d6-b980-1c74174070b5" name="Quiz_Server" url="http://localhost">
         <fileTransfer port="0" mountedRoot="C:\xampp\htdocs\Quiz_Flavio" accessType="MOUNT" />
       </webServer>
     </option>

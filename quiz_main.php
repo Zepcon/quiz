@@ -20,24 +20,24 @@ $_SESSION['playedthrough'] = false;
 
 // Database management
 $updateconnection = createDatabaseconnection();
-$result = mysqli_query($updateconnection, "SELECT count(*) from statistics where session_id='{$_SESSION['session_id']}'");
+$result = mysqli_query($updateconnection, "SELECT count(*) from statistics where SESSION_ID='{$_SESSION['session_id']}'");
 $resultarray = $result->fetch_array();
 
 // No entry at all in the database, so put the session id in database in order to update it later on
 if ($resultarray[0] == "0") {
-    $sql = "INSERT INTO statistics (session_id) VALUES ('{$_COOKIE['PHPSESSID']}')";
+    $sql = "INSERT INTO statistics (SESSION_ID) VALUES ('{$_COOKIE['PHPSESSID']}')";
     mysqli_query($updateconnection, $sql);
 }
 // Session id already exists in database
 if ($resultarray[0] != "0") {
     //check if there is a session id where the final flag is not set
-    $result = mysqli_query($updateconnection, "SELECT count(session_id) FROM statistics WHERE finally_finished != 1 AND session_id='{$_SESSION['session_id']}'");
+    $result = mysqli_query($updateconnection, "SELECT count(SESSION_ID) FROM statistics WHERE Quiz_beendet != 1 AND SESSION_ID='{$_SESSION['session_id']}'");
     $resultarray = $result->fetch_array();
     // We have no open quiz for this session, so start a new one
     if ($resultarray[0] == "0") {
         unset($_SESSION['quiz']);
         $_SESSION['group'] = mt_rand(1,3);
-        $sql = "INSERT INTO statistics (session_id) VALUES ('{$_COOKIE['PHPSESSID']}')";
+        $sql = "INSERT INTO statistics (SESSION_ID) VALUES ('{$_COOKIE['PHPSESSID']}')";
         mysqli_query($updateconnection, $sql);
     }
 }
@@ -328,7 +328,7 @@ include "HTML/Modal.html";
 // Check interruption of user by just closing the website and make sure the flag is set
 if (isset($_POST['crash'])) {
     $con = createDatabaseconnection();
-    $sql = "UPDATE statistics SET `finally_finished` = '2' WHERE session_id = '{$_SESSION['session_id']}' AND finally_finished = 0";
+    $sql = "UPDATE statistics SET `Quiz_beendet` = '1' WHERE SESSION_ID = '{$_SESSION['session_id']}' AND Quiz_beendet = 0";
     mysqli_query($con, $sql);
     mysqli_close($con);
 }

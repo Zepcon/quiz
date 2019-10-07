@@ -79,6 +79,7 @@ function getOS()
 
 // Check for session
 if (session_status() == 1) {
+    // Cookie lifetime 30 days
     session_set_cookie_params(time()+30*24*60*60);
     session_start();
     // set the start time for the user in seconds and session id
@@ -107,7 +108,7 @@ if (isset($_POST['sex']) AND ($_POST['age'] != '')) {
 if ($input_set) {
 
     $con = createDatabaseconnection();
-    $sql = "INSERT INTO `person` (`ip`, `session_id`, `group_number`, `sex`, `age`, `operating_system`, `browser`, `start_date`) VALUES ('{$_SERVER['REMOTE_ADDR']}', '{$_SESSION['session_id']}', '{$_SESSION['group']}', '{$_SESSION['sex']}', '{$_SESSION['age']}','{$_SESSION['operating_system']}', '{$_SESSION['browser']}', '{$_SESSION['start_date']}')";
+    $sql = "INSERT INTO `person` (IP, Session_ID, Gruppennummer, Geschlecht, Person_Alter, Betriebssystem, Browser, Startzeitpunkt) VALUES ('{$_SERVER['REMOTE_ADDR']}', '{$_SESSION['session_id']}', '{$_SESSION['group']}', '{$_SESSION['sex']}', '{$_SESSION['age']}','{$_SESSION['operating_system']}', '{$_SESSION['browser']}', '{$_SESSION['start_date']}')";
     mysqli_query($con, $sql);
     mysqli_close($con);
     header('Location: quiz_main.php');
